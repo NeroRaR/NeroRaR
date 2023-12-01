@@ -26,6 +26,6 @@ Thanks for stopping by. 🍂
 <br/>
 
 #
-[Website]: https://nerorar.github.io
+[website]: https://nerorar.github.io
 <!---Begin YOUTUBE-CARDS-->
 <!--End YOUTUBE-CARDS-->
