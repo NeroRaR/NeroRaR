@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👾 Eli Dunmoye 🎮
 
-<!--
-**NeroRaR/NeroRaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Creator (Indie Game Developer|Software Developer|Artist)`**
 
-Here are some ideas to get you started:
+Hello 🖐🏾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an indie game developer and software developer who loves to immerse themselves inside anything creative whether it be art or coding. I'm also a software and digital media major at the college I am currently attending, I absolutely love coding because in my opinion it is very interesting to see how far you can push or create using just your coding or prgramming abilities. It is very satisfying to me to spend time on a project and seeing it work out and finished.
+
+Thanks for stopping by. 🍂
+
+🍃 💭
+---
+### Languages
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<br/>
+
+#
+### Tools
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg"/>
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Ren%27Py.svg"/>
