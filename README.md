@@ -1,6 +1,6 @@
 # 👾 Eli Dunmoye 🎮
 
-**`Digital Creator (Indie Game Developer|Software Developer|Artist)`**
+**`Digital Creator (Indie Game Developer|Software Developer|Wannabe Artist)`**
 
 Hello 🖐🏾
 
